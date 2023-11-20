@@ -25,6 +25,8 @@
 
 - 📄 Know about my experiences [www.meimran.com](www.meimran.com)
 
+[![imranmunawar's GitHub | Stats](https://stats.quine.sh/imranmunawar/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=imranmunawar)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imranmunawarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranmunawarkhan" height="30" width="40" /></a>
