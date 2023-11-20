@@ -26,6 +26,7 @@
 - 📄 Know about my experiences [www.meimran.com](www.meimran.com)
 
 [![imranmunawar's GitHub | Stats](https://stats.quine.sh/imranmunawar/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=imranmunawar)
+[![imranmunawar's GitHub | Languages Over Time](https://stats.quine.sh/imranmunawar/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=imranmunawar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
